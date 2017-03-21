@@ -12,10 +12,11 @@ namespace StopWatch
         {
             get
             {
-                return (EndTime - StartTime); 
+                if(StartTime < EndTime)
+                    return (EndTime - StartTime);
+                return TimeSpan.Zero;
             }
         }
-
 
         public void Start()
         {
