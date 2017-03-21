@@ -8,7 +8,6 @@ namespace StopWatch
         static void Main(string[] args)
         {
             Stopwatch stopwatch = new Stopwatch();
-            var a = stopwatch.Duration;
             Console.WriteLine("1 to start and 2 to stop");
             while (true)
             {
@@ -19,7 +18,6 @@ namespace StopWatch
                 {
                     try
                     {
-                        Console.WriteLine(stopwatch.Duration.Seconds); 
                         stopwatch.Start();
                     }
                     catch (Exception)
