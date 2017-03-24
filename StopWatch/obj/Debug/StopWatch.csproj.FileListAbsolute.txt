@@ -1,6 +1,0 @@
-C:\Users\nalam\Source\Repos\Learning-OOP-and-OOD\StopWatch\bin\Debug\StopWatch.exe.config
-C:\Users\nalam\Source\Repos\Learning-OOP-and-OOD\StopWatch\bin\Debug\StopWatch.exe
-C:\Users\nalam\Source\Repos\Learning-OOP-and-OOD\StopWatch\bin\Debug\StopWatch.pdb
-C:\Users\nalam\Source\Repos\Learning-OOP-and-OOD\StopWatch\obj\Debug\StopWatch.csprojResolveAssemblyReference.cache
-C:\Users\nalam\Source\Repos\Learning-OOP-and-OOD\StopWatch\obj\Debug\StopWatch.exe
-C:\Users\nalam\Source\Repos\Learning-OOP-and-OOD\StopWatch\obj\Debug\StopWatch.pdb
